@@ -12,7 +12,7 @@ Download proxy-act
 wget -O proxies.js https://raw.githubusercontent.com/shidiqmuh0/proxy-act/main/proxies.js
 ```
 
-Before run the code, put proxies on proxies.txt
+Before run the code, put proxy on proxies.txt
 
 Like this format
 
